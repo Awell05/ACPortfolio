@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Raleway&display=swap');
+
+.App {
+  text-align: center;
+  /* background-image: url('./components/unsplash.jpg'); */
+  background-color: #2e0338f6;
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+  .Arrow-function {
+    animation: Arrow-function-slidein infinite 1s linear;
+    animation-iteration-count: 1;
+  }
+}
+
+.App-header {
+
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.nav-bar {
+  position: relative;
+ left: 500px;
+ top: 150px;
+ font-family: "Dosis",  "Raleway", "san-serif";
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes Arrow-function-slidein {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(-10%);
+  }
+}
+
+.Arrow-function {
+  position: relative;
+  bottom: 700px;
+  right: 600px;
+  font-size: 800px;
+  pointer-events: none;
+}
