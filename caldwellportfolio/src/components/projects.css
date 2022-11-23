@@ -1,8 +1,20 @@
 
 .card {
     flex-wrap: wrap;
-    flex-direction: row;
+   
 }
 .cards {
     width: 30%;
+}
+
+.project-title {
+    font-size: 40px;
+    font-family: "Dosis",  Raleway, san-serif;
+    color: white;  
+}
+
+.project-para {
+    font-size: 40px;
+    font-family: "Dosis",  Raleway, san-serif;
+    color: white;
 }

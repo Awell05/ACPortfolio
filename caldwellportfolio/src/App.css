@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Raleway&display=swap');
+
 
 .App {
   text-align: center;
@@ -37,7 +37,6 @@
   position: relative;
  left: 500px;
  top: 150px;
- font-family: "Dosis",  "Raleway", "san-serif";
 }
 
 .App-link {

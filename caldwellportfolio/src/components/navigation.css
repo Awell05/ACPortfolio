@@ -1,7 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Raleway&display=swap');
+
 .navlinks {
 font-size: 200px;
 text-align: center;
 flex-direction: column;
 align-items: center;
+font-family: "Dosis",  Raleway, san-serif;
+font-style: normal;
+font-weight: 200;
+font-display: swap;
 }
 

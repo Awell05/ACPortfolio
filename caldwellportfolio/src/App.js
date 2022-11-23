@@ -5,6 +5,8 @@ import Footer from './components/footer';
 import '../src/components/navigation.css';
 import Projects from './components/projects';
 import About from './components/aboutme';
+
+
 function App() {
   return (
     <div className="App">
@@ -14,14 +16,6 @@ function App() {
         </nav>
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
           <code className ="Arrow-function"> => </code> 
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          need to change this link
-        </a>
       </header>
       <div> <About/> </div>
       <div><Projects/></div>
