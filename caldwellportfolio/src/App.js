@@ -18,8 +18,8 @@ function App() {
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
           <code className ="Arrow-function"> => </code> 
       </header>
-      <div className="about"> <About/> </div>
-      <div><Projects/></div>
+      <div className="about"> <About/> </div><br></br>
+      <div className="project"><Projects/></div>
       <footer> 
         <Footer/>
        </footer>

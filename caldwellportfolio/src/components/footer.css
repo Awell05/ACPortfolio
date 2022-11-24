@@ -8,3 +8,8 @@
     color: white;
     font-size: 80px;
 }
+
+.footer {
+    padding-top: 70px;
+    justify-content: space-between;
+}

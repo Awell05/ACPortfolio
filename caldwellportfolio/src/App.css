@@ -70,5 +70,11 @@
   font-family: 'Rubik Dirt', cursive;
 }
 .about {
-  
+  background-color: rgba(196, 188, 204, 0.232);
+  padding: 40px;
+}
+
+.project {
+  /* background-color: rgba(196, 188, 204, 0.232); */
+  padding: 30px;
 }

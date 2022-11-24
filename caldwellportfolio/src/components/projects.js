@@ -3,7 +3,9 @@ import flyguysc from './flyguysc.png';
 import pokesc from './pokesc.png';
 
 function Projects() {
-return (
+  return (
+    <div>
+  <h1 className="project-header"> Projects </h1>
 <div className="card">
   <div>
     <img src = {pokesc} className="cards" /><br></br>
@@ -16,7 +18,8 @@ return (
  
   </div>
 </div>
-)
+</div>
+  )
 }
 
 export default Projects;
