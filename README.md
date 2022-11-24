@@ -3,6 +3,7 @@
   ## Description
 
   This is a personal portfolio using React uploaded to github pages for potential employers to review. 
+  <image src="./portfolioSc.png">
   
   ## Table of Contents 
   
