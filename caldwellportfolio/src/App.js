@@ -7,6 +7,7 @@ import Projects from './components/projects';
 import About from './components/aboutme';
 
 
+
 function App() {
   return (
     <div className="App">
@@ -17,7 +18,7 @@ function App() {
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
           <code className ="Arrow-function"> => </code> 
       </header>
-      <div> <About/> </div>
+      <div className="about"> <About/> </div>
       <div><Projects/></div>
       <footer> 
         <Footer/>

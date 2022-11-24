@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Dosis:wght@200&family=Raleway&display=swap');
 
 .App {
   text-align: center;
@@ -65,6 +65,10 @@
   position: relative;
   bottom: 700px;
   right: 600px;
-  font-size: 800px;
+  font-size: 700px;
   pointer-events: none;
+  font-family: 'Rubik Dirt', cursive;
+}
+.about {
+  
 }
